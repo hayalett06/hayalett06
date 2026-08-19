@@ -4,11 +4,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umutinc&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hayalett06&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=umutinc&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=hayalett06&theme=tokyonight" />
 </p>
 
-![graph](https://github-readme-activity-graph.vercel.app/graph?username=umutinc&theme=tokyo-night)
+![graph](https://github-readme-activity-graph.vercel.app/graph?username=hayalett06&theme=tokyo-night)
